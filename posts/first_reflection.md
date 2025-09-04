@@ -5,4 +5,4 @@
 - What I’m proud of: Creating a full game
 - Next steps: Use more effective code
 
-[Back](index.md)
+[Back](..index.md)
