@@ -10,4 +10,3 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 I am interested in coding small games and hope to become proficient at Java
 
 ---
-*Update this page by editing `index.md` in your repository.*
