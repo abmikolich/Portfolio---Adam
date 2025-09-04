@@ -1,7 +1,6 @@
 # First Reflection
-What I learned this week (bullets are fine, you may include an image):
 
-- Topic(s):
-- What I struggled with:
-- What I’m proud of:
-- Next steps:
+- Topic: Using if, else and elif statements to make something
+- What I struggled with: Balancing the upgrade increments
+- What I’m proud of: Creating a full game
+- Next steps: Use mroe effective code
