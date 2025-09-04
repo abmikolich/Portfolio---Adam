@@ -3,7 +3,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 ## Highlights
 - 🔧 Project 1: *Clicker Game* – *A short incremental game*
-- 🧠 Concept I learned: *(short note)*
+- 🧠 Concept I learned: *How to use if, else and elif statements*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 - 🔗 [Link](https://www.online-python.com/cVFUxdYgOA)
 ## About me
